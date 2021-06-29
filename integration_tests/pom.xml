@@ -22,7 +22,7 @@
     </licenses>
 
     <modules>
-        <module>echo_server</module>
+        <module>jmx_example_application</module>
         <module>agent_smoke_test</module>
     </modules>
 
